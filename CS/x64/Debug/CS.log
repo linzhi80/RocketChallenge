@@ -1,0 +1,18 @@
+﻿  Application.cpp
+C:\work\repos\CSDlll\Socket.h(12,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\work\repos\CS\Application.cpp(43,25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\work\repos\CS\Application.cpp(110,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(69,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\work\repos\CS\Application.cpp(73,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\work\repos\CS\Application.cpp(77,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\work\repos\CS\Application.cpp(82,49): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\work\repos\CS\Application.cpp(90,21): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\work\repos\CS\Application.cpp(153,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(163,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(170,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(190,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(196,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\work\repos\CS\Application.cpp(201,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ClientManager.cpp
+  正在生成代码...
+  CS.vcxproj -> C:\work\repos\CS\x64\Debug\Server.exe

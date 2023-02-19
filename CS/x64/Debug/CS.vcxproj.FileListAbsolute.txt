@@ -1,0 +1,2 @@
+C:\Users\lzlrn\source\repos\CS\x64\Debug\Server.exe
+C:\work\repos\CS\x64\Debug\Server.exe
